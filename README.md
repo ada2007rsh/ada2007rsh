@@ -167,7 +167,17 @@ me = Adarsh()
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/00F5FF/ada2007rsh" width="100%" alt="GitHub Contribution Calendar"/>
+<img
+  src="https://ghchart.rshah.org/00F5FF/ada2007rsh"
+  width="100%"
+  alt="GitHub Contribution Calendar"
+/>
+
+<br/><br/>
+
+<a href="https://github.com/ada2007rsh">
+<img src="https://img.shields.io/badge/VIEW-GITHUB_PROFILE-09090F?style=for-the-badge&logo=github&logoColor=00F5FF" alt="View GitHub Profile"/>
+</a>
 
 </div>
 
@@ -203,30 +213,3 @@ me = Adarsh()
 </a>
 
 </div>
-
----
-
-## `08` // REPOSITORY COMMIT TRACKER
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SYSTEM-REPOSITORY_ANALYTICS-09090F?style=for-the-badge&logo=github&logoColor=00F5FF" alt="Repository Analytics"/>
-
-<br/><br/>
-
-> `TRACKING MY COMMITS // PUBLIC REPOSITORIES ONLY`
-
-</div>
-
-<!-- REPO-COMMITS:START -->
-| Repository | My Commits |
-|:-----------|-----------:|
-| _Waiting for GitHub Actions..._ | — |
-<!-- REPO-COMMITS:END -->
-
-<div align="center">
-
-<sub>⚡ Automatically updated by GitHub Actions.</sub>
-
-</div>
- 
