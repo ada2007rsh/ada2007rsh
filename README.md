@@ -1,5 +1,3 @@
-<!-- =============== HEADER =============== -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:09090F,50:17112B,100:0E7490&text=T.%20ADARSH%20KUMAR&fontSize=42&fontColor=00F5FF&fontAlignY=42&desc=COMPUTER%20SCIENCE%20%7C%20DEVELOPER%20IN%20PROGRESS&descSize=14&descAlignY=68&animation=fadeIn" alt="T. Adarsh Kumar Header"/>
@@ -26,7 +24,7 @@
 
 ---
 
-## `01` // WHO AM I?
+## `01` WHO AM I?
 
 Hey! I'm **T. Adarsh Kumar**, a Computer Science student interested in programming, software development, and emerging technologies.
 
@@ -64,7 +62,7 @@ me = Adarsh()
 
 ---
 
-## `02` // TECH ARSENAL
+## `02` TECH ARSENAL
 
 ### ⌨️ Programming Languages
 
@@ -92,7 +90,7 @@ me = Adarsh()
 
 ---
 
-## `03` // CURRENT MISSIONS
+## `03` CURRENT MISSIONS
 
 <table>
 <tr>
@@ -123,7 +121,7 @@ me = Adarsh()
 
 ---
 
-## `04` // PROJECT DATABASE
+## `04` PROJECT DATABASE
 
 <div align="center">
 
@@ -145,7 +143,7 @@ me = Adarsh()
 
 ---
 
-## `05` // GITHUB TELEMETRY
+## `05` GITHUB TELEMETRY
 
 <div align="center">
 
@@ -163,11 +161,11 @@ me = Adarsh()
 
 ---
 
-## `06` // CONTRIBUTION ACTIVITY
+## `06` CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-### `CONTRIBUTIONS: TRACK YOUR PROGRESS`
+### `TRACK YOUR PROGRESS`
 
 <a href="https://github.com/ada2007rsh">
 <img src="https://img.shields.io/badge/VIEW-GITHUB_CONTRIBUTIONS-09090F?style=for-the-badge&logo=github&logoColor=00F5FF" alt="View GitHub Contributions"/>
@@ -181,7 +179,7 @@ me = Adarsh()
 
 ---
 
-## `07` // DEVELOPER MINDSET
+## `07` DEVELOPER MINDSET
 
 <div align="center">
 
