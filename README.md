@@ -19,17 +19,13 @@
 
 </div>
 
-<!-- Indian flag -->
-
 <div align="right">
-  <img src="https://flagcdn.com/w40/in.png" width="30" alt="Indian Flag"/>
+<img src="https://flagcdn.com/w40/in.png" width="30" alt="Indian Flag"/>
 </div>
 
 ---
 
 ## `01` // WHO AM I?
-
-<img align="right" width="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE0dDJsNmhsZTgzMnNuaGhkYXpudzM2NjN5bGxiZ2w1ZThkOTRnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Coding Animation"/>
 
 Hey! I'm **T. Adarsh Kumar**, a Computer Science student interested in programming, software development, and emerging technologies.
 
@@ -45,7 +41,9 @@ class Adarsh:
             "IoT & Embedded Systems"
         ]
         self.learning = [
-            "C++", "Python", "Web Development"
+            "C++",
+            "Python",
+            "Web Development"
         ]
         self.mindset = "Learn by building"
 
@@ -63,8 +61,6 @@ me = Adarsh()
 * 🎨 Experimenting with Blender and creative coding.
 * 🚀 Improving through projects, practice, and curiosity.
 
-<br clear="right"/>
-
 ---
 
 ## `02` // TECH ARSENAL
@@ -73,7 +69,7 @@ me = Adarsh()
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,cs&theme=dark" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" alt="Programming Languages"/>
 
 </div>
 
@@ -144,7 +140,7 @@ me = Adarsh()
 | 🎨 Blender   | 3D modeling and animation                 |
 | 🌐 Web       | Interactive websites and web technologies |
 
-*As you publish projects, replace these categories with your actual project names and links.*
+*Replace these categories with links to your actual projects as you publish them.*
 
 ---
 
@@ -168,7 +164,9 @@ me = Adarsh()
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ada2007rsh&bg_color=09090F&color=E6EDF3&line=00F5FF&point=BD93F9&area=true&hide_border=true&custom_title=CODING%20ACTIVITY" alt="GitHub Contribution Activity Graph"/>
+<!-- Updated activity graph -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ada2007rsh&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
 
 </div>
 
@@ -200,7 +198,7 @@ me = Adarsh()
 <br/><br/>
 
 <a href="https://github.com/ada2007rsh?tab=repositories">
-<img src="https://img.shields.io/badge/Thanks_for_visiting!-Let's_build_something-17112B?style=for-the-badge&logo=github&logoColor=00F5FF" alt="Thanks for Visiting"/>
+<img src="https://img.shields.io/badge/THANKS_FOR_VISITING-LET'S_BUILD_SOMETHING-17112B?style=for-the-badge&logo=github&logoColor=00F5FF" alt="Thanks for Visiting"/>
 </a>
 
 <br/><br/>
@@ -208,4 +206,3 @@ me = Adarsh()
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=45&section=footer&color=0:09090F,50:17112B,100:0E7490" alt="Footer"/>
 
 </div>
-
