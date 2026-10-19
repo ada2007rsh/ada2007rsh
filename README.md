@@ -13,6 +13,7 @@
 <a href="https://github.com/ada2007rsh">
 <img src="https://img.shields.io/badge/GitHub-Profile-09090F?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub"/>
 </a>
+
 <a href="https://www.linkedin.com/in/t-adarsh-kumar/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-09090F?style=for-the-badge&logo=linkedin&logoColor=00F5FF" alt="LinkedIn"/>
 </a>
@@ -54,12 +55,12 @@ class Adarsh:
 me = Adarsh()
 ```
 
-* 💻 Exploring programming and software development.
-* 🧠 Learning to solve problems through code.
-* 🤖 Interested in AI/ML and intelligent systems.
-* ⚡ Exploring IoT and embedded technologies.
-* 🎨 Experimenting with Blender and creative coding.
-* 🚀 Improving through projects, practice, and curiosity.
+- 💻 Exploring programming and software development.
+- 🧠 Learning to solve problems through code.
+- 🤖 Interested in AI/ML and intelligent systems.
+- ⚡ Exploring IoT and embedded technologies.
+- 🎨 Experimenting with Blender and creative coding.
+- 🚀 Improving through projects, practice, and curiosity.
 
 ---
 
@@ -99,22 +100,22 @@ me = Adarsh()
 
 ### 📚 Learning
 
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Python programming
-* Web development
-* AI/ML fundamentals
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Python programming
+- Web development
+- AI/ML fundamentals
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛠️ Building
 
-* Programming practice projects
-* Beginner Android applications
-* Blender 3D scenes
-* Small software experiments
-* Practical coding solutions
+- Programming practice projects
+- Beginner Android applications
+- Blender 3D scenes
+- Small software experiments
+- Practical coding solutions
 
 </td>
 </tr>
@@ -132,13 +133,13 @@ me = Adarsh()
 
 </div>
 
-| Project Area | Focus                                     |
-| :----------- | :---------------------------------------- |
-| 💻 C/C++     | Programming fundamentals and OOP          |
-| 🐍 Python    | Problem-solving and automation            |
-| 📱 Android   | Beginner mobile applications              |
-| 🎨 Blender   | 3D modeling and animation                 |
-| 🌐 Web       | Interactive websites and web technologies |
+| Project Area | Focus |
+|:-------------|:------|
+| 💻 C/C++ | Programming fundamentals and OOP |
+| 🐍 Python | Problem-solving and automation |
+| 📱 Android | Beginner mobile applications |
+| 🎨 Blender | 3D modeling and animation |
+| 🌐 Web | Interactive websites and web technologies |
 
 *Replace these categories with links to your actual projects as you publish them.*
 
@@ -164,9 +165,7 @@ me = Adarsh()
 
 <div align="center">
 
-<!-- Updated activity graph -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ada2007rsh&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
+<img src="https://ghchart.rshah.org/00F5FF/ada2007rsh" width="100%" alt="GitHub Contribution Calendar"/>
 
 </div>
 
@@ -201,8 +200,30 @@ me = Adarsh()
 <img src="https://img.shields.io/badge/THANKS_FOR_VISITING-LET'S_BUILD_SOMETHING-17112B?style=for-the-badge&logo=github&logoColor=00F5FF" alt="Thanks for Visiting"/>
 </a>
 
+</div>
+
+---
+
+## `08` // REPOSITORY COMMIT TRACKER
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SYSTEM-REPOSITORY_ANALYTICS-09090F?style=for-the-badge&logo=github&logoColor=00F5FF" alt="Repository Analytics"/>
+
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=45&section=footer&color=0:09090F,50:17112B,100:0E7490" alt="Footer"/>
+> `TRACKING MY COMMITS // PUBLIC REPOSITORIES ONLY`
+
+</div>
+
+<!-- REPO-COMMITS:START -->
+| Repository | My Commits |
+|:-----------|-----------:|
+| _Waiting for GitHub Actions..._ | — |
+<!-- REPO-COMMITS:END -->
+
+<div align="center">
+
+<sub>⚡ Automatically updated by GitHub Actions.</sub>
 
 </div>
