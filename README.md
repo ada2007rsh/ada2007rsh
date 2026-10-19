@@ -163,21 +163,19 @@ me = Adarsh()
 
 ---
 
-## `06` // CONTRIBUTION MATRIX
+## `06` // CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img
-  src="https://ghchart.rshah.org/00F5FF/ada2007rsh"
-  width="100%"
-  alt="GitHub Contribution Calendar"
-/>
+### `CONTRIBUTIONS: TRACK YOUR PROGRESS`
+
+<a href="https://github.com/ada2007rsh">
+<img src="https://img.shields.io/badge/VIEW-GITHUB_CONTRIBUTIONS-09090F?style=for-the-badge&logo=github&logoColor=00F5FF" alt="View GitHub Contributions"/>
+</a>
 
 <br/><br/>
 
-<a href="https://github.com/ada2007rsh">
-<img src="https://img.shields.io/badge/VIEW-GITHUB_PROFILE-09090F?style=for-the-badge&logo=github&logoColor=00F5FF" alt="View GitHub Profile"/>
-</a>
+<sub>⚡ Every commit is another step forward.</sub>
 
 </div>
 
