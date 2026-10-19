@@ -2,11 +2,22 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:09090F,50:17112B,100:0E7490&text=ADARSH%20KUMAR&fontSize=48&fontColor=00F5FF&fontAlignY=42&desc=COMPUTER%20SCIENCE%20%7C%20DEVELOPER%20IN%20PROGRESS&descSize=15&descAlignY=68&animation=fadeIn" alt="Adarsh Kumar profile header"/>
+<table>
+<tr>
+<td align="center" width="100%">
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:09090F,50:17112B,100:0E7490&text=ADARSH%20KUMAR&fontSize=48&fontColor=00F5FF&fontAlignY=42&desc=COMPUTER%20SCIENCE%20%7C%20DEVELOPER%20IN%20PROGRESS&descSize=15&descAlignY=68&animation=fadeIn" alt="Adarsh Kumar header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=600&lines=%3E+Initializing+developer+mode...;%3E+Learning.+Building.+Improving.;%3E+Exploring+AI%2FML+%26+IoT.;%3E+Turning+ideas+into+code." alt="Developer typing animation"/>
+</td>
+<td valign="top" align="right" width="45">
+
+<img src="https://flagcdn.com/w40/in.png" width="30" alt="Indian Flag"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=600&lines=%3E+Initializing+developer+mode...;%3E+Learning.+Building.+Improving.;%3E+Exploring+AI%2FML+%26+IoT.;%3E+Turning+ideas+into+code." alt="Typing animation"/>
 
 <br/>
 
@@ -23,11 +34,9 @@
 
 ## `01` // WHO AM I?
 
-<div align="center">
+<img align="right" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE0dDJsNmhsZTgzMnNuaGhkYXpudzM2NjN5bGxiZ2w1ZThkOTRnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Coding animation"/>
 
-<img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE0dDJsNmhsZTgzMnNuaGhkYXpudzM2NjN5bGxiZ2w1ZThkOTRnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Coding animation"/>
-
-</div>
+Hey! I'm **Adarsh Kumar**, a Computer Science student interested in software development, programming, and emerging technologies.
 
 ```python
 class Adarsh:
@@ -35,26 +44,27 @@ class Adarsh:
         self.role = "Computer Science Student"
         self.interests = [
             "Software Development",
-            "Artificial Intelligence",
-            "Machine Learning",
+            "AI / Machine Learning",
             "IoT & Embedded Systems"
         ]
-        self.learning = ["C++", "Python", "Web Development"]
+        self.learning = [
+            "C++", "Python", "Web Development"
+        ]
         self.mindset = "Learn by building"
 
-    def ambition(self):
-        return "Build useful things with technology."
+    def goal(self):
+        return "Turn ideas into useful projects."
 
 
 me = Adarsh()
 ```
 
-* 💻 Exploring programming and software development.
-* 🧠 Learning to solve problems through code.
-* 🤖 Interested in AI/ML and intelligent systems.
+* 🎓 Exploring the world of Computer Science.
+* 💻 Learning programming through practice and projects.
+* 🧠 Interested in AI, machine learning, and problem-solving.
 * ⚡ Exploring IoT and embedded technologies.
 * 🎨 Experimenting with Blender and creative coding.
-* 🚀 Improving through projects, practice, and curiosity.
+* 🚀 Always learning something new.
 
 <br clear="right"/>
 
@@ -62,22 +72,28 @@ me = Adarsh()
 
 ## `02` // TECH ARSENAL
 
-### ⌨️ Programming Languages
+### 💻 Programming Languages
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=c,cpp,python,cs&theme=dark" alt="Programming languages"/>
+
 </div>
 
 ### 🌐 Web Development
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Web development"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Web technologies"/>
+
 </div>
 
 ### ⚙️ Tools & Technologies
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,kotlin,androidstudio,blender,arduino,linux&theme=dark" alt="Developer tools and technologies"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,kotlin,androidstudio,blender,arduino,linux&theme=dark" alt="Tools and technologies"/>
+
 </div>
 
 ---
@@ -88,24 +104,24 @@ me = Adarsh()
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Learning
+### 📚 Currently Learning
 
 * Data Structures & Algorithms
 * Object-Oriented Programming
 * Python programming
-* Web development
-* AI/ML fundamentals
+* Web development fundamentals
+* AI/ML concepts
 
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ Building
+### 🛠️ Building & Exploring
 
-* Programming practice projects
+* C and C++ programming projects
 * Beginner Android applications
-* Blender 3D scenes
-* Small software experiments
+* Blender 3D scenes and animations
 * Practical coding solutions
+* Small software experiments
 
 </td>
 </tr>
@@ -123,15 +139,15 @@ me = Adarsh()
 
 </div>
 
-| Project Area | Focus                                     |
-| :----------- | :---------------------------------------- |
-| 💻 C/C++     | Programming fundamentals and OOP          |
-| 🐍 Python    | Problem-solving and automation            |
-| 📱 Android   | Beginner mobile applications              |
-| 🎨 Blender   | 3D modeling and animation                 |
-| 🌐 Web       | Interactive websites and web technologies |
+| Project Area | Focus                            |
+| :----------- | :------------------------------- |
+| 💻 C/C++     | Programming fundamentals and OOP |
+| 🐍 Python    | Problem-solving and automation   |
+| 📱 Android   | Beginner mobile applications     |
+| 🎨 Blender   | 3D modeling and animation        |
+| 🌐 Web       | Websites and web technologies    |
 
-*Replace these general categories with your actual project names and repository links as you publish your work.*
+*Replace these categories with links to your actual projects as you publish them.*
 
 ---
 
@@ -139,42 +155,5 @@ me = Adarsh()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ada2007rsh&show_icons=true&hide_border=true&bg_color=09090F&title_color=00F5FF&icon_color=BD93F9&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ada
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ada2007rsh&layout=compact&hide_border=true&bg_color=09090F&title_color=00F5FF&text_color=E6EDF3" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=ada2007rsh&theme=dark&hide_border=true&background=09090F&ring=00F5FF&fire=BD93F9&currStreakLabel=00F5FF" alt="GitHub streak"/>
-
-</div>
-
----
-
-## `06` // CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ada2007rsh&bg_color=09090F&color=E6EDF3&line=00F5FF&point=BD93F9&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY" alt="GitHub activity graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-### `SYSTEM STATUS: ALWAYS LEARNING`
-
-```text
-[ LEARN ] ---> [ BUILD ] ---> [ DEBUG ] ---> [ REPEAT ]
-```
-
-**One idea. One project. One step forward.** ⚡
-
-<img src="https://komarev.com/ghpvc/?username=ada2007rsh&style=flat-square&color=00F5FF&label=PROFILE+VISITORS" alt="Profile visitor count"/>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=45&section=footer&color=0:09090F,50:17112B,100:0E7490" alt="Dark footer"/>
-
-</div>
